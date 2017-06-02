@@ -12,7 +12,7 @@
 extern int 	my_tanmatsu_type;
 extern int sw_test_flg;
 extern int sw_test_data;
-/* ‚±‚±‚ğ•ÏX1 */
+/* ‚±‚±‚ğ•ÏX2 */
 int
 main( int argc, char *argv[] )
 {

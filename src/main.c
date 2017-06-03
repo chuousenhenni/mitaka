@@ -1,5 +1,5 @@
 /* srv.c */
-
+aaaaa
 #define STRICT
 #include <stdio.h>
 #include <stdlib.h>

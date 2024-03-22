@@ -12,7 +12,7 @@ aaaaa
 extern int 	my_tanmatsu_type;
 extern int sw_test_flg;
 extern int sw_test_data;
-int
+int ccc;
 main( int argc, char *argv[] )
 {
 	my_tanmatsu_type = 2;
